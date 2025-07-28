@@ -1,0 +1,3 @@
+Bulk Remove Users in Microsoft Entra Intune Groups Using PowerShell Script
+
+Script Link: - 
